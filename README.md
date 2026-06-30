@@ -49,9 +49,6 @@ cd Student-Management-System
 python main.py
 ```
 
-## Screenshot
-
-(Add screenshot later)
 
 ## Future Improvements
 
